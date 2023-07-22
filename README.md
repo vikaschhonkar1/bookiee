@@ -53,7 +53,15 @@ To run Bookiee locally, make sure you have the following installed on your syste
 4. Bookiee will display the digital book results from the Google Books API.
 
 ## Screenshots
-Will add Screenshots soon
+![Home Page](./screenshots/1.png) 
+
+![Different Sections](./screenshots/2.png)
+
+![All Filters / Genres](./screenshots/3.png)
+
+![Searching Books](./screenshots/4.png)
+
+![Dark Mode](./screenshots/5.png)
 
 ## Live Demo
 You can access the live demo of the Bookiee web application [here](https://bookiee.netlify.app/).
