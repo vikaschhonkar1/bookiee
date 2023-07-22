@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [About The Project](#about-the-project)
-2. [What makes Bookiee Special?](#special-features)
+2. [What makes Bookiee Special?](#what-makes-bookiee-special)
 3. [Built With](#built-with)
 4. [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
