@@ -42,7 +42,7 @@ To run Bookiee locally, make sure you have the following installed on your syste
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Bookiee.git
+   git clone https://github.com/vikaschhonkar1/bookiee.git
    ```
 2. Navigate to the project directory and open `index.html` in your web browser.
 
